@@ -1,1 +1,2 @@
 At this stage of learning, I understand how the code works, but I have a problem with writing it. I can already create a simple working code from a demo of what we have already studied and with the help of documents, Google and the GPT chat. This is not the level that I could be proud of, but it is better than nothing.
+I have a problem with button Buy upgrade functionality. Wiil rewatch the demo and understand what I missed.
